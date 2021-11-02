@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinlalms&label=Profile%20views&color=0e75b6&style=flat" alt="sachinlalms" /> </p>
 <p  margin-top="20px">
 
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=sachinlalms&count_private=true&theme=radical&show_icons=true" /></p>
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=sachinlalms&count_private=true&theme=radical&show_icons=true" />
 
-<p ><img   width="400" src="https://github-readme-streak-stats.herokuapp.com?user=sachinlalms&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="sachinlalms" />
+<img   width="400" src="https://github-readme-streak-stats.herokuapp.com?user=sachinlalms&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="sachinlalms" />
  
 </p>
 <p><img align="left" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" alt="sachinlalms" /></p>
