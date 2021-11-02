@@ -6,7 +6,7 @@
 
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=sachinlalms&count_private=true&theme=radical&show_icons=true" style="width:400;" />
 
-<img   width="400" src="https://github-readme-streak-stats.herokuapp.com?user=sachinlalms&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D style="width:400; margin-left:7px"" alt="sachinlalms" />
+<img   src="https://github-readme-streak-stats.herokuapp.com?user=sachinlalms&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" style="width:400; margin-left:7px" alt="sachinlalms" />
  
 </p>
 <p><img align="left" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" alt="sachinlalms" /></p>
