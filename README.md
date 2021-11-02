@@ -8,6 +8,7 @@
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=sachinlalms&count_private=true&theme=radical&show_icons=true" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sachinlalms&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="sachinlalms" />
+  <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" />
 </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinlalms&theme=radical&row=4&column=4 alt="sachinlalms" /></a> </p>
 
