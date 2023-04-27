@@ -15,7 +15,7 @@
 
 <p align="center"> <a href="https://twitter.com/sachinlalms95" target="blank"><img src="https://img.shields.io/twitter/follow/sachinlalms95?logo=twitter&style=for-the-badge" alt="sachinlalms95" /></a> </p>
 <p align="center">
-- 🌱 I’m currently learning **JavaScript**</p>
+- 🌱 I’m currently learning **Devops**</p>
 </p>
  <p align="center">
 - 📫 How to reach me **sachinlalms95@gmail.com**</p>
