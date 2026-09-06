@@ -84,9 +84,11 @@ Linux · Git · MySQL · PostgreSQL · Firebase · Android
 ### GitHub Overview
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sachinlalms&show_icons=true&theme=default&hide_border=true&hide_title=true&title_color=000000&icon_color=000000&text_color=333333&bg_color=ffffff" width="47%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinlalms&layout=compact&hide_border=true&hide_title=true&title_color=000000&text_color=333333&bg_color=ffffff" width="38%" />
+<img src="https://github-readme-stats.vercel.app/api?username=sachinlalms&show_icons=true&theme=default&hide_border=true" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinlalms&layout=compact&hide_border=true" width="38%" />
 </div>
+
+<sub align="center">If the stats above don't load, GitHub is likely rate-limiting the free stats service — refresh the page after a minute, or see the note below.</sub>
 
 <hr/>
 
